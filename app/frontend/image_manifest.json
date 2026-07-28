@@ -1,0 +1,33 @@
+{
+  "message": "4 completed, 0 still generating.",
+  "results": [
+    {
+      "status": "success",
+      "filename": "hero-weather-analytics-bg.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/957459/2026-06-07/qcbrq3iaaiaq/hero-weather-analytics-bg.png",
+      "path": "assets/images/hero-weather-analytics-bg.png",
+      "absolute_path": "/workspace/assets/images/hero-weather-analytics-bg.png"
+    },
+    {
+      "status": "success",
+      "filename": "logo-weather-analytics.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/957459/2026-06-07/qcbrriacaibq/logo-weather-analytics.png",
+      "path": "assets/images/logo-weather-analytics.png",
+      "absolute_path": "/workspace/assets/images/logo-weather-analytics.png"
+    },
+    {
+      "status": "success",
+      "filename": "temperature-trends-visual.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/957459/2026-06-07/qcbrrwycaiaq/temperature-trends-visual.png",
+      "path": "assets/images/temperature-trends-visual.png",
+      "absolute_path": "/workspace/assets/images/temperature-trends-visual.png"
+    },
+    {
+      "status": "success",
+      "filename": "weather-card-bg.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/957459/2026-06-07/qcbrsdqcaiaa/weather-card-bg.png",
+      "path": "assets/images/weather-card-bg.png",
+      "absolute_path": "/workspace/assets/images/weather-card-bg.png"
+    }
+  ]
+}

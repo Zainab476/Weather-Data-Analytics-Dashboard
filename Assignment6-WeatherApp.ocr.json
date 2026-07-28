@@ -1,0 +1,13 @@
+{
+  "file_path": "/workspace/uploads/Assignment6-WeatherApp.docx",
+  "markdown_path": "/workspace/Assignment6-WeatherApp.md",
+  "ocr_enabled": true,
+  "ocr_limit": 20,
+  "image_count": 0,
+  "ocr_processed_count": 0,
+  "ocr_skipped_count": 0,
+  "images": [],
+  "warnings": [
+    "OCR was requested, but no extracted images were found in the document."
+  ]
+}
